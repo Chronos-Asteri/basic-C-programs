@@ -2,7 +2,7 @@
 
 ## Programs
 
-All the **[programs](./program_Files/)** **I** made for my `Programming Fundamentals` Course
+All the **[programs](./program_files/)** **I** made for my `Programming Fundamentals` Course
 > **All the programs are in C Language**
 
 ## Template Files
